@@ -1,0 +1,20 @@
+.face{
+  color: blueviolet;
+  background-color: bisque;
+}
+
+.click{
+  font-size: medium;
+  font-weight: bold;
+  border-radius: 30px;
+  color:black
+}
+
+.container{
+  color:black;  
+}
+
+.EnPhrase{
+  font-size: x-large;
+  color: blue;
+}
